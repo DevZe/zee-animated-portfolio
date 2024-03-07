@@ -16,7 +16,7 @@ const Navbar = () => {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.5 }}
         >
-          Zee Majama
+          Tek Ink
         </motion.span>
         <div className="social">
           <a href="#">
