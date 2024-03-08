@@ -20,6 +20,7 @@ const textVariants = {
 };
 
 const Hero = () => {
+
   return (
     <div className="hero">
       <div className="wrapper">
@@ -51,6 +52,7 @@ const Hero = () => {
       </div>
     </div>
   );
+
 };
 
 export default Hero;
